@@ -1,0 +1,13 @@
+{
+    "user_info" : {
+        "user_name" : "Your Iwara user name",
+        "password" : "Your Iwara Password"
+    },
+    "telegram_info" : {
+        "token" : "Your Bot API Token",
+        "chat_id" : "The chat ID of your bot or channel",
+        "chat_id_discuss": "The chat ID of the linked discussion group",
+        "ranking_id" : "The chat ID of your bot or channel",
+        "APIServer" : "http://your server:8081/bot"
+    }
+}
